@@ -1,0 +1,9 @@
+person 0
+bike 1
+car 2
+motor 3
+bus 5
+train 6
+truck 7
+traffic_light 8
+traffic_sign 9

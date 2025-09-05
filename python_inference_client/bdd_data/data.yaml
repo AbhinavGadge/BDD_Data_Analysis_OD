@@ -1,0 +1,4 @@
+train: C:\Users\abhinav.gadge\Documents\KN_Docs_Induction\python_inference_client\python_inference_client\bdd_data\train\images
+val: C:\Users\abhinav.gadge\Documents\KN_Docs_Induction\python_inference_client\python_inference_client\bdd_data\val\images
+nc: 9
+names: ["person", "bike", "car", "motor", "bus", "train","truck", "traffic_light", "traffic_sign"]

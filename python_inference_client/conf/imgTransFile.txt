@@ -1,0 +1,13 @@
+flipVertical = 0
+
+flipHorizontal = 1
+
+rotate90 = 0
+
+rotate180 = 0
+
+rotate270 = 0
+
+saveDebugImages = 1
+
+saveImagePath = C:\Users\abhinav.gadge\Documents\KN_Docs_Induction\python_inference_client\python_inference_client\bdd_data\results

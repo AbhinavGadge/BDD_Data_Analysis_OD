@@ -1,0 +1,6 @@
+matplotlib
+plotly
+dash
+opencv-python
+numpy
+pandas
