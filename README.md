@@ -7,7 +7,7 @@ It includes dataset analysis, model preparation, inference pipeline, evaluation 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhinavGadge/BDD_Data_Analysis_OD/main/OD_inference_pipeline.png" alt="Pipeline Diagram" width="700"/>
+  <img src="https://github.com/AbhinavGadge/BDD_Data_Analysis_OD/blob/main/OD_inference_pipeline.png" alt="Pipeline Diagram" width="700"/>
 </p>
 
 
