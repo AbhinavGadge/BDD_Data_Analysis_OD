@@ -87,13 +87,13 @@ Run inference:
 
 bash
 Copy code
-python python_inference_client/inference.py
+python .\python_inference_client\inference.py
 🏋️ Training
 To train the model (YOLOv8), use either:
 
-model/train.ipynb (Jupyter Notebook)
+.\python_inference_clientmodel\train.ipynb (Jupyter Notebook)
 
-model/train.py (Python script)
+.\python_inference_clientmodel\train.py (Python script)
 
 Before training
 Activate your virtual environment:
@@ -107,6 +107,8 @@ Copy code
 source .venv/bin/activate
 Install dependencies:
 
+# Evavaluation
+python .\python_inference_client\utils\conf_mat\test.py
 bash
 Copy code
 pip install -r requirements.txt
