@@ -97,6 +97,9 @@ To train the model (YOLOv8), use either:
 .\python_inference_clientmodel\train.py (Python script)
 
 Before training
+# Get subset data (train and val)
+
+python  .\python_inference_client\data\subset_copy.py
 Activate your virtual environment:
 
 bash
@@ -123,7 +126,11 @@ outputs/train_sample.png → Train class example
 # Evavaluation
 python .\python_inference_client\utils\conf_mat\test.py
 
+(Due to very heavy sioze files I couldnt upload whole analysis, I recommend running above script, you will get false_postives, miss_classfied, missed data with bounding box drawn at .\python_inference_client\bdd_data\results\badPred\New_summary.txt along with faslse positives
+
+
 Evaluation metrics are saved as per-class AP, mAP@0.5, precision/recall tables.
+the evaluation results are saved at : .\python_inference_client\bdd_data\results\badPred\New_summary.txt along with faslse positives
 
 📑 Documentation
 See the full project report for details:
