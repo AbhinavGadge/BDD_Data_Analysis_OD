@@ -6,7 +6,10 @@ It includes dataset analysis, model preparation, inference pipeline, evaluation 
 
 ---
 
-![Object Detection Inference Pipeline](OD_inference_pipeline.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbhinavGadge/BDD_Data_Analysis_OD/main/OD_inference_pipeline.png" alt="Pipeline Diagram" width="700"/>
+</p>
+
 
 
 ## 🚀 Quick Start with DockerHub
