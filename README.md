@@ -107,8 +107,6 @@ Copy code
 source .venv/bin/activate
 Install dependencies:
 
-# Evavaluation
-python .\python_inference_client\utils\conf_mat\test.py
 bash
 Copy code
 pip install -r requirements.txt
@@ -120,6 +118,9 @@ outputs/most_crowded.png → Example crowded scene
 outputs/motor_sample.png → Rare class example
 
 outputs/train_sample.png → Train class example
+
+# Evavaluation
+python .\python_inference_client\utils\conf_mat\test.py
 
 Evaluation metrics are saved as per-class AP, mAP@0.5, precision/recall tables.
 
@@ -154,5 +155,3 @@ Reproducibility → Requirements, Dockerfile, and config-driven execution.
 Abhinav Gadge
 Machine Learning Engineer – Computer Vision, Deep Learning, and Model Deployment.
 =======
-# BDD_Data_Analysis_OD
->>>>>>> fe54e9996c755a96b3ad731347f9c2b5cc6b3490
