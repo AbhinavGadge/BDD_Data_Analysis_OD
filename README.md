@@ -6,6 +6,9 @@ It includes dataset analysis, model preparation, inference pipeline, evaluation 
 
 ---
 
+![Object Detection Inference Pipeline](OD_inference_pipeline.png)
+
+
 ## 🚀 Quick Start with DockerHub
 
 You can directly pull the pre-built Docker image from DockerHub:
