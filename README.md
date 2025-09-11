@@ -9,6 +9,12 @@ It includes dataset analysis, model preparation, inference pipeline, evaluation 
 
 ## 🚀 Quick Start with DockerHub
 
+To view how ti run this repo please look into run.ipynb
+
+```bash
+run.ipynb
+```
+
 You can directly pull the pre-built Docker image from DockerHub:
 
 ```bash
